@@ -41,11 +41,13 @@ Here are some ideas to get you started:
 
 ## DevOps
 ![Docker](https://img.shields.io/badge/Docker-24962D.svg?&style=for-the-badge&logo=Docker&logoColor=white)
+## 
 
+<!--
 ## Current Interest
 #### <a href = "http://aladin.kr/p/cGVOm">Clean Code</a>
 #### <a href = "http://aladin.kr/p/OL1D1">Modern Java</a>
-
+-->
 <div name="additionalbadge" display="inline">
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=Bryan051)](https://github.com/Bryan051)<br>
